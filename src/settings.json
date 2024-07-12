@@ -1,0 +1,71 @@
+{
+  "components": [
+    {
+      "id": "BannerWithLink",
+      "variables": {
+        "subtitle": "Unlock the Future of Development with a Strategic Twist",
+        "title": "Gamble Your Way to Engineering Mastery"
+      }
+    },
+    {
+      "id": "NavbarSimple",
+      "variables": {
+        "subtitle": "Unlock the Future of Development with a Strategic Twist",
+        "title": "Gamble Your Way to Engineering Mastery"
+      }
+    },
+    {
+      "id": "HeroWithOffsetImage",
+      "variables": {
+        "subtitle": "Unlock the Future of Development with a Strategic Twist",
+        "title": "Gamble Your Way to Engineering Mastery"
+      }
+    },
+    {
+      "id": "TestimonialsGrid",
+      "variables": {
+        "subtitle": "Unlock the Future of Development with a Strategic Twist",
+        "title": "Gamble Your Way to Engineering Mastery"
+      }
+    },
+    {
+      "id": "StatsSimpleGrid",
+      "variables": {
+        "subtitle": "Unlock the Future of Development with a Strategic Twist",
+        "title": "Gamble Your Way to Engineering Mastery"
+      }
+    },
+    {
+      "id": "CtaSimpleCentered",
+      "variables": {
+        "subtitle": "Unlock the Future of Development with a Strategic Twist",
+        "title": "Gamble Your Way to Engineering Mastery"
+      }
+    },
+    {
+      "id": "FaqsOffsetWithSupportingText",
+      "variables": {
+        "subtitle": "Unlock the Future of Development with a Strategic Twist",
+        "title": "Gamble Your Way to Engineering Mastery"
+      }
+    },
+    {
+      "id": "NewsletterCenteredCard",
+      "variables": {
+        "subtitle": "Unlock the Future of Development with a Strategic Twist",
+        "title": "Gamble Your Way to Engineering Mastery"
+      }
+    },
+    {
+      "id": "FooterSimpleCentered",
+      "variables": {
+        "subtitle": "Unlock the Future of Development with a Strategic Twist",
+        "title": "Gamble Your Way to Engineering Mastery"
+      }
+    }
+  ],
+  "theme": "minimal",
+  "font": "",
+  "title": "Gamble Your Way to Engineering Mastery",
+  "subtitle": "Unlock the Future of Development with a Strategic Twist"
+}
